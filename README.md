@@ -38,7 +38,7 @@ Foram analisados os seguintes métodos:
 | Bubble Sort (flag)   | 78     | 180        |
 | Selection Sort       | **18**     | 190        |
 | Cocktail Sort        | 78     | 154        |
-| **Bucket Sort**      | 19 | **94**    |
+| **Bucket Sort**      | 30 | **78**    |
 
 **Melhores resultados:**
 - 🥇 **Menos trocas:** Selection Sort (18)
@@ -55,7 +55,7 @@ Foram analisados os seguintes métodos:
 | Bubble Sort (flag)   | 0      | 19         |
 | Selection Sort       | 0      | 190        |
 | Cocktail Sort        | 0      | **19**         |
-| **Bucket Sort**      | 0 | 75     |
+| **Bucket Sort**      | 0 | 59     |
 
 **Melhores resultados:**
 - 🥇 **Empate em trocas:** todos (0)
@@ -72,7 +72,7 @@ Foram analisados os seguintes métodos:
 | Bubble Sort (flag)   | 190    | 190        |
 | Selection Sort       | **10**     | 190        |
 | Cocktail Sort        | 190    | 190        |
-| **Bucket Sort**      | 74 | 149    |
+| **Bucket Sort**      | 90 | 133    |
 
 **Melhores resultados:**
 - 🥇 **Menos trocas:** Selection Sort (10)
