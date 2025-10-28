@@ -1,9 +1,12 @@
 # TDE3-Ordenacao
 # Comparação de Algoritmos de Ordenação em Java
 
-Aluno: Enzo Wasko Amorim
-Matéria: Resolução de Problemas Estruturados em Computação
-Professor: Andrey Cabral Meira
+Aluno: Enzo Wasko Amorim;
+
+Matéria: Resolução de Problemas Estruturados em Computação;
+
+Professor: Andrey Cabral Meira;
+
 
 Este projeto tem como objetivo comparar o desempenho de diferentes algoritmos de ordenação em termos de **trocas** e **iterações**.  
 Foram utilizados cinco algoritmos implementados manualmente (sem uso de funções prontas do Java):
