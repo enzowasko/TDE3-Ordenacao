@@ -1,5 +1,5 @@
 # TDE3-Ordenacao
-# Comparação de Algoritmos de Ordenação em Java
+#🔹Comparação de Algoritmos de Ordenação em Java
 
 Aluno: Enzo Wasko Amorim;
 
@@ -45,7 +45,7 @@ Foram utilizados cinco algoritmos implementados manualmente (sem uso de funçõe
 | Selection Sort     |   10   |    190    |
 | Cocktail Sort      |   190  |    190    |
 
-# Conclusões
+# 🔹Conclusões
 
 - Selection Sort realiza poucas trocas, mas é lento em iterações.
 
